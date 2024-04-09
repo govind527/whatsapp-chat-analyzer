@@ -4,7 +4,7 @@
 
 For Analyze whatsapp chat in Real time
 
-[App demo Link](https://gkwhatsapp-chat-analyzer.herokuapp.com/)
+<!App demo Link](https://gkwhatsapp-chat-analyzer.herokuapp.com/) -->
 
 ### how to use this app
 - First Export the whatsapp chat where chat will be inform of am/pm.
